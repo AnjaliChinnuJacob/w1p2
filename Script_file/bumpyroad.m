@@ -9,3 +9,4 @@ signal1 = amp1 * sin(2*pi*t/T1);
 signal2 = amp2 * sin(2*pi*t/T2);
 signal = signal1 + signal2;
 
+
